@@ -18,7 +18,7 @@ dependencies = [
     "setuptools==67.6.1",
     "hatchling==1.14.0",
     "wheel==0.42.0",
-    "requests==2.31.0",
+    "requests==2.32.0",
     "passlib==1.7.4",
     "rich==13.7.0",
     "PyGObject==3.46.0",
